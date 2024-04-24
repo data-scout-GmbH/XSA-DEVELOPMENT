@@ -1,0 +1,7 @@
+{
+  "BUYER": {
+    "target": {
+      "object": "db.models::BUYER"
+    }
+  }
+}
