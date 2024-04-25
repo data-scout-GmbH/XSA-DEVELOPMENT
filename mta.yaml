@@ -1,6 +1,6 @@
 ID: XSA-DEVELOPMENT
 _schema-version: '2.1'
-version: 0.0.1
+version: 1.0.0
 modules:
   - name: db
     type: hdb
